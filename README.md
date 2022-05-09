@@ -1,4 +1,4 @@
-#ESTUDO DE LÓGICA DE PROGRAMAÇÃO
+# ESTUDO DE LÓGICA DE PROGRAMAÇÃO
 
 <div>
 <p>Neste repositório serão colocados todos os exercícios de Lógica de Programação realizados durante o curso PROA. </p>
